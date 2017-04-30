@@ -1,0 +1,25 @@
+{
+  "name": "rdb",
+  "authors": [
+    "Francisco Casals <francisco.casals@gmail.com>"
+  ],
+  "description": "",
+  "main": [
+    "main.js"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "restangular": "1.6.1",
+    "angular-growl-v2": "0.7.9",
+    "angular-ui-router": "ui-router#0.4.2",
+    "angular": "1.6.4"
+  }
+}
